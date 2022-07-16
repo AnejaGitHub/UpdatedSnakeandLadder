@@ -5,12 +5,7 @@ import java.util.Scanner;
 public class Player {
     String name;
     int score;
-/*
-    public Player(String name, int score) {
-        this.name = name;
-        this.score = score;
-    }
-*/
+
     Scanner sc= new Scanner(System.in);
     public String getName() {
         name = sc.nextLine();
