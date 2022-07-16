@@ -11,7 +11,8 @@ Rules
 4. For rolling the dice doesn't press any character Thank You Best Wishes
 
 Availabel Actions
- 0 -> To Leave this Game");
+
+ 0 -> To Leave this Game
    
  1 -> To Enter in the Game with Easy lavel
   
@@ -21,5 +22,5 @@ Availabel Actions
   
  4 -> To See ladders and snakes in the Game
 
- 5 -> To See rules of the Game ");
+ 5 -> To See rules of the Game 
   
