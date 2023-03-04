@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t Welcome To Snake And Ladder Game");
-        System.out.println("\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t     It is Two Players Game");
+        System.out.println("\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t     It is a Two Players Game");
         Scanner sc = new Scanner(System.in);
 
 
